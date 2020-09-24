@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+label {
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
+
+input[type="text"] {
+    width: 100%;
+    height: 100%;
+    font-size: hidden;
+    font-size: 27px;
+}
+
+
+
+table,td,tr{
+    border: 1px solid;
+    border-collapse: collapse;
+    overflow: 10px;
+    overflow: hidden;
+}
+
+td.detail {}
+
+td.info {
+    padding-left: 10px;
+}
+
+table{
+    width:1000px;
+    margin:auto;
+}
+
+
+
+table.tb2{
+    height: 500px;
+}
+
+.detail{
+    width:70%;
+}
+
+.khoi{
+    width: 1000px;
+    margin:auto;
+    border:1px solid;
+    height: 300px;
+    overflow: hidden;
+}
+
+.trai,.phai{
+    display:inline;
+    border:1px solid;
+    height: 300px;
+}
+
+.trai{
+    width: 70%;
+    float: left;
+}
+
+.phai{
+    width: 29.6%;
+    float: left;
+}
+
+
+textarea{
+    border: none;
+    width: 100%;
+    font-size:17px;
+}
+
+img{
+    width: 100%;
+}
